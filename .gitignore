@@ -1,0 +1,7 @@
+venv/
+envDjango/
+*.pyc
+__pycache__/
+db.sqlite3
+.vscode/
+staticfiles/
